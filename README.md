@@ -11,7 +11,7 @@ Static HTML5/CSS3/Vanilla JavaScript website for Samahang Pangkasaysayan ng Bula
 
 ## Add the real SAMPAKA logo
 
-The supplied SAMPAKA logo is already installed at `images/sampaka-logo.png` and is used in the header and footer. To replace it later, keep the same filename or update the image path in `index.html`.
+The supplied SAMPAKA logo is installed at `images/sampaka-logo.png` and is used in the header, hero, and footer. To replace it later, keep the same filename or update the image path in `index.html`.
 
 ```html
 <img src="images/sampaka-logo.png" alt="Samahang Pangkasaysayan ng Bulacan (SAMPAKA)">
